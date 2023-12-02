@@ -5,7 +5,7 @@
 This repository contains Blender renders of the various projects I have worked on/ am working on. The renders are in the form of `.png` files. The `.blend` files are not included in this repository.
 >I considered including the `.blend` files, but they are too large to be practical. If you would like to see them, please contact me.
 <br />
-Email: [Wycliffe Ndiba] (mailto:w.ndiba@gmail.com)
+Email: [Wycliffe Ndiba](mailto:w.ndiba@gmail.com)
 
 If you stumble upon this repo, feel like we could work together, or just want to chat, feel free to contact me.
 
@@ -27,6 +27,17 @@ A typical structure will be as follows:
 ```
 
 ### Projects
+
+### Fluid Simulation
+
+#### Fluid Simulation 1
+
+This was a client work they needed me to model the environment, simulate the fluid and research on the right parameters for the FLIP Fluids. They handled the materials and rendering. I used the FLIP Fluids addon for the simulation and baking. The resolution for the 'previz' was about 250, and presented expected parameters close to the final resolution.
+I'm especially proud of this project, and I'll be working upon this project to improve the simulation and the render while learning more about FLIP Fluids.
+
+> Video clay renders of the fluid simulations.
+
+<a href="https://youtu.be/embed/32zLhHX4IG8" target="_blank"><img src="./README-images/ocean_min__emission_render1.png" width="100%"></a>
 
 ### SESSIONS: Macro
 
